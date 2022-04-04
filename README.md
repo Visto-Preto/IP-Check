@@ -12,12 +12,12 @@ Check IP Address information
 # :inbox_tray:  Installation :inbox_tray:
 
 * **Temux App** :iphone:
-  * `curl -sLf https://raw.githubusercontent.com/Visto-Preto/TeleX/master/install.sh | bash`
+  * `curl -sLf https://raw.githubusercontent.com/Visto-Preto/Ip-Check/master/install.sh | bash`
 
 
   <img src="img/termux1.jpg" width="250" />   <img src="img/temux2.jpg" width="250" />
 
 * **Linux** :penguin:
-  * `curl -sLf https://raw.githubusercontent.com/Visto-Preto/TeleX/master/install.sh | bash`
+  * `curl -sLf https://raw.githubusercontent.com/Visto-Preto/Ip-Check/master/install.sh | bash`
 
 <img src="img/linux.png" />
