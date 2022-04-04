@@ -19,7 +19,7 @@ git clone https://github.com/Visto-Preto/Ip-Check ipcheck
 cat ipcheck/ipcheck.sh > /data/data/com.termux/files/usr/bin/ipcheck
 chmod 700 /data/data/com.termux/files/usr/bin/ipcheck
 cp -R ipcheck /data/data/com.termux/files/usr/share/
-rm -Rf ipcheck
+rm -rf ipcheck
 
 echo -e '\n\n'
 echo -e 'Para iniciar o Ip-Check entre com o comando: \033[1;32mipcheck\033[m'
