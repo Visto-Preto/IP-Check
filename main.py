@@ -20,11 +20,10 @@ def menu():
 	os.system('''ip=$(curl -s https://ipinfo.io/ip) 
 	echo '\033[1;31m'IP: '\033[1;32m'$ip '\033[m' | cowsay''')
 	print()
-	print(blue, 4*' ','}-- Created by:', red, 'Leonardo Sousa', blue,'--{')
-	print(8*' ','}--- Codename:', red, 's0u54l30', blue, '--{')
-	print(15*' ', 'Version: ', red, '1.0', blue)
+	print(blue, 4*' ','}-- Created by:', red, 'Visto-Preto', blue,'--{')
+	print(15*' ', 'Version: ', red, '1.1', blue)
 	print()
-	print(2*'', 'Visit', red, ' https://github.com/s0u54l30/IP-Check', blue)
+	print(2*'', 'Visit', red, ' https://github.com/Visto-Preto/IP-Check', blue)
 	print(cls, '''
 Select from the menu:
 
