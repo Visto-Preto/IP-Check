@@ -3,7 +3,7 @@
 echo -e '\n\n'
 echo -e '\033[1;31mInstalando dependências...\033[m'
 echo -e '\n'
-apt update && apt upgrade -y
+apt update
 apt install -y git python figlet cowsay
 
 pip install requests
